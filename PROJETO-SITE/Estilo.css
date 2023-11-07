@@ -1,0 +1,114 @@
+.image {
+    position: relative;
+    z-index: 5;
+    color: #000;
+  }
+
+  .image .bg {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 450px;
+    background: url(Imagens/sala.jpg) center center;
+    opacity: .4;
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.text-box{
+    width: 500px;
+    height: auto;
+    display: block;
+    text-align: justify;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    opacity: 1;
+}
+.text-box p{
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+
+/*CONTEÚDO*/
+.content{
+    display: inline-block;
+}
+.content .conteudoL{
+    display: flex;
+    margin: auto;
+    float: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.conteudoL .imgR{
+    float: right;
+}
+.conteudoL .imgR img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin-right: 100px;
+}
+.conteudoL .textL{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+.conteudoL .textL h1{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.conteudoL .textL p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+
+
+.conteudoR .imgL{
+    float: right;
+}
+.conteudoR .imgL img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin-right: 100px;
+}
+.conteudoR .textR{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+.conteudoR .textR h1{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.conteudoR .textR p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.rodape{
+    background-color: #9F83C7;
+  }
+  .rodape p{
+      color: #ffff;
+  }
+  .rodape li a{
+      color: #ffff;
+  }
+  
+  .email{
+      word-spacing: 1%; 
+      
+  }
+  #email2{
+      word-spacing: 2px;
+  }

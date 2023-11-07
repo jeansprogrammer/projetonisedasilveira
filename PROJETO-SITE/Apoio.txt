@@ -1,0 +1,20 @@
+PALETA DE CORES
+
+    AZUL
+    #089DC4
+
+    LILÁS
+    #9F83C7
+
+    ROXO
+    #68449E
+
+    ROSA
+    #BE04BE
+
+
+SITES DE BASE
+
+    https://danielacarneiro.com/
+
+    https://ceciliafreytas.com.br/psicologo-online/garanhuns-pe/

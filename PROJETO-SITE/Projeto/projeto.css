@@ -1,0 +1,38 @@
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+li{
+    margin-inline: 0;
+}
+ 
+.card-group .card img{
+    height: 400px;
+}
+
+.rodape{
+    background-color: #9F83C7;
+  }
+  .rodape p{
+      color: #ffff;
+  }
+  .rodape li a{
+      color: #ffff;
+  }
+  
+  .email{
+      word-spacing: 1%; 
+      
+  }
+  #email2{
+      word-spacing: 2px;
+  }
